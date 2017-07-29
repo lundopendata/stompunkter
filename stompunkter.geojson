@@ -12912,12 +12912,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.236685747881738, 55.726469809688908, 77.422999999995227 ]
+				"coordinates" : [ 13.236685796334225, 55.726469704705849, 77.422999999995227 ]
 			},
 			"properties" : {
-				"Namn" : "305879",
-				"X" : "6178139.758",
-				"Y" : "133455.27",
+				"Namn" : "305878",
+				"X" : "6178139.746",
+				"Y" : "133455.273",
 				"Z" : "77.423",
 				"Medelfel höjd (m)" : "0.025000000000000001",
 				"Medelfel plan (m)" : "0.025000000000000001",
@@ -27276,12 +27276,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.240176998250126, 55.728048750550812, 76.403999999994994 ]
+				"coordinates" : [ 13.240177227914106, 55.72804867918223, 76.403999999994994 ]
 			},
 			"properties" : {
-				"Namn" : "337088",
-				"X" : "6178314.724",
-				"Y" : "133675.293",
+				"Namn" : "337089",
+				"X" : "6178314.716",
+				"Y" : "133675.307",
 				"Z" : "76.404",
 				"Medelfel höjd (m)" : "0.025000000000000001",
 				"Medelfel plan (m)" : "0.025000000000000001",
@@ -38094,24 +38094,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.225229015460606, 55.715977802619342, 76.263000000006286 ]
-			},
-			"properties" : {
-				"Namn" : "3597",
-				"X" : "6176974.41",
-				"Y" : "132730.786",
-				"Z" : "76.263",
-				"Medelfel höjd (m)" : "0.025000000000000001",
-				"Medelfel plan (m)" : "0.10000000000000001",
-				"Huvudman" : "2",
-				"Markeringstyp" : "11",
-				"Punkttyp" : "FIX"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.275345586311484, 55.709615123333201, 59.44999999999709 ]
 			},
 			"properties" : {
@@ -38123,6 +38105,24 @@
 				"Medelfel plan (m)" : "20",
 				"Huvudman" : "2",
 				"Markeringstyp" : "10",
+				"Punkttyp" : "FIX"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.225229015460606, 55.715977802619342, 76.263000000006286 ]
+			},
+			"properties" : {
+				"Namn" : "3597",
+				"X" : "6176974.41",
+				"Y" : "132730.786",
+				"Z" : "76.263",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.10000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "11",
 				"Punkttyp" : "FIX"
 			}
 		},
@@ -66174,6 +66174,42 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.238332686711392, 55.726535130307873, 75.665800000002491 ]
+			},
+			"properties" : {
+				"Namn" : "655",
+				"X" : "6178146.638",
+				"Y" : "133558.779",
+				"Z" : "75.666",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.240651088892465, 55.727312330678423, 74.486199999999371 ]
+			},
+			"properties" : {
+				"Namn" : "656",
+				"X" : "6178232.622",
+				"Y" : "133704.773",
+				"Z" : "74.486",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.217741423062956, 55.640652606177589, 22.850000000005821 ]
 			},
 			"properties" : {
@@ -66186,6 +66222,78 @@
 				"Huvudman" : "2",
 				"Markeringstyp" : "10",
 				"Punkttyp" : "SP"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.241490683482169, 55.728460488310326, 76.173999999999069 ]
+			},
+			"properties" : {
+				"Namn" : "657",
+				"X" : "6178360.257",
+				"Y" : "133758.002",
+				"Z" : "76.174",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.242247212901223, 55.729564339109047, 78.432000000000698 ]
+			},
+			"properties" : {
+				"Namn" : "658",
+				"X" : "6178482.979",
+				"Y" : "133805.991",
+				"Z" : "78.432",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.24237158240947, 55.730507680607339, 79.716700000004494 ]
+			},
+			"properties" : {
+				"Namn" : "659",
+				"X" : "6178587.978",
+				"Y" : "133814.196",
+				"Z" : "79.717",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.243683363709899, 55.731107079279717, 79.753899999996065 ]
+			},
+			"properties" : {
+				"Namn" : "660",
+				"X" : "6178654.407",
+				"Y" : "133896.856",
+				"Z" : "79.754",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
 			}
 		},
 		{
@@ -92454,24 +92562,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.182783210576817, 55.698640877854267, 0 ]
-			},
-			"properties" : {
-				"Namn" : "KO",
-				"X" : "6175055.575",
-				"Y" : "130054.27",
-				"Z" : "0.0",
-				"Medelfel höjd (m)" : "10",
-				"Medelfel plan (m)" : "0.050000000000000003",
-				"Huvudman" : "0",
-				"Markeringstyp" : "0",
-				"Punkttyp" : "PI"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.18771555999491, 55.696621649908465, 0 ]
 			},
 			"properties" : {
@@ -92483,6 +92573,24 @@
 				"Medelfel plan (m)" : "0.050000000000000003",
 				"Huvudman" : "0",
 				"Markeringstyp" : "3",
+				"Punkttyp" : "PI"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.182783210576817, 55.698640877854267, 0 ]
+			},
+			"properties" : {
+				"Namn" : "KO",
+				"X" : "6175055.575",
+				"Y" : "130054.27",
+				"Z" : "0.0",
+				"Medelfel höjd (m)" : "10",
+				"Medelfel plan (m)" : "0.050000000000000003",
+				"Huvudman" : "0",
+				"Markeringstyp" : "0",
 				"Punkttyp" : "PI"
 			}
 		},
