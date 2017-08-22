@@ -66336,6 +66336,42 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.209007468321037, 55.713375968038925, 71.125899999999092 ]
+			},
+			"properties" : {
+				"Namn" : "661",
+				"X" : "6176688.891",
+				"Y" : "131710.058",
+				"Z" : "71.126",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.209942373588365, 55.714626081757018, 72.261499999993248 ]
+			},
+			"properties" : {
+				"Namn" : "662",
+				"X" : "6176827.827",
+				"Y" : "131769.402",
+				"Z" : "72.261",
+				"Medelfel höjd (m)" : "0.025000000000000001",
+				"Medelfel plan (m)" : "0.025000000000000001",
+				"Huvudman" : "2",
+				"Markeringstyp" : "16",
+				"Punkttyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.322761463600024, 55.764080141105573, 21.68399999999383 ]
 			},
 			"properties" : {
