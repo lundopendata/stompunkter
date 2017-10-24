@@ -5,12 +5,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 138974.7215, 6184932.8844, -999 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -18,12 +13,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 138951.3301, 6184981.7206, -999 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -31,12 +21,7 @@
 		"Punkttyp" : null,
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Prisma",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 132470.3504, 6176899.6457, 83.083400000003166 ]
-		}
+		"Markeringstyp" : "Prisma"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -44,12 +29,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134582.5062, 6174256.5595, -999 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -57,12 +37,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Spira",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 151717.3164, 6177868.1685, -999 ]
-		}
+		"Markeringstyp" : "Spira"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -70,12 +45,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Hål",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 143255.9409, 6169781.9863, -999 ]
-		}
+		"Markeringstyp" : "Hål"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -83,12 +53,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 144395.8144, 6164711.0367, -999 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -96,12 +61,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Hål",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 136939.5878, 6175664.8067, -999 ]
-		}
+		"Markeringstyp" : "Hål"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -109,12 +69,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 142104.7081, 6172116.7286, -999 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -122,12 +77,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Antenn",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 136941.0865, 6175667.7281, -999 ]
-		}
+		"Markeringstyp" : "Antenn"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -135,12 +85,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Bult",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 140450.9466, 6179288.163, -999 ]
-		}
+		"Markeringstyp" : "Bult"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -148,12 +93,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Hål",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 145621.536, 6166580.6555, -999 ]
-		}
+		"Markeringstyp" : "Hål"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -161,12 +101,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130076.2558, 6178094.8682, 47.653000000005704 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -174,12 +109,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Stål",
-		"Markeringstyp" : "Spik",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130631.4787, 6178166.9965, 52.61699999999837 ]
-		}
+		"Markeringstyp" : "Spik"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -187,12 +117,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 132973.286, 6177761.116, 83.302999999999884 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -200,12 +125,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Prisma",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130188.532, 6176158.947, 70.869999999995343 ]
-		}
+		"Markeringstyp" : "Prisma"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -213,12 +133,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Stål",
-		"Markeringstyp" : "Spik",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130309.5812, 6178610.8592, -999 ]
-		}
+		"Markeringstyp" : "Spik"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -226,12 +141,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Spira",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 122981.1792, 6178109.8042, -999 ]
-		}
+		"Markeringstyp" : "Spira"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -239,12 +149,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Koppar",
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134551.3379, 6184347.5826, -999 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -252,12 +157,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 151194.3819, 6164695.9889, 122.60000000000582 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -265,12 +165,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Stål",
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 125797.097, 6185499.5147, 46.220000000001164 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -278,12 +173,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 144904.3091, 6165347.188, 76.748000000006869 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -291,12 +181,7 @@
 		"Punkttyp" : null,
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 132910.022, 6174027.707, 0 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -304,12 +189,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 128868.0031, 6169626.1009, 26.270000000004075 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -317,12 +197,7 @@
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
 		"Material" : "Mässing",
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134121.6201, 6174122.7046, 39.346999999994296 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -330,12 +205,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130540.6777, 6178005.168, 51.414000000004307 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -343,12 +213,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134199.1416, 6180895.227, 62.948000000003958 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -356,12 +221,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134571.08, 6181467.7775, 40.326000000000931 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -369,12 +229,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 152158.039, 6166798.884, 37.096999999994296 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -382,12 +237,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 158182.3929, 6168382.1361, 43.304000000003725 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -395,12 +245,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 138089.259, 6166696.383, 33.694000000003143 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -408,12 +253,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 145075.108, 6170185.21, 71.305999999996857 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -421,12 +261,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 148618.0042, 6168817.4824, 34.024000000004889 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -434,12 +269,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 131810.4239, 6175767.5339, 53.099000000001979 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -447,12 +277,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 147331.567, 6158096.923, 72.952999999994063 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -460,12 +285,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 132119.817, 6181015.721, 54.850999999995111 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -473,12 +293,7 @@
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 142430.065, 6172931.278, 103.15499999999884 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -486,12 +301,7 @@
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 131249.4591, 6176488.6523, 66.661999999996624 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -499,12 +309,7 @@
 		"Punkttyp" : "",
 		"Tillbehör" : "Däcksel",
 		"Material" : "Järn",
-		"Markeringstyp" : "Rör",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 133693.8267, 6173668.3559, 21.783999999999651 ]
-		}
+		"Markeringstyp" : "Rör"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -512,12 +317,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Hål",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 156300.7799, 6169557.8244, 48.054000000003725 ]
-		}
+		"Markeringstyp" : "Hål"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -525,12 +325,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 143792.733, 6170547.49, 96.255000000004657 ]
-		}
+		"Markeringstyp" : null
 	},
 	{
 		"json_featuretype" : "koder",
@@ -538,12 +333,7 @@
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 141062.2851, 6180648.2381, 20.06699999999546 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -551,12 +341,7 @@
 		"Punkttyp" : null,
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 134228.982, 6179637.238, 77.023000000001048 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -564,12 +349,7 @@
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
 		"Material" : "Järn",
-		"Markeringstyp" : "Bult",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 130875.1252, 6175694.9862, 42.464000000007218 ]
-		}
+		"Markeringstyp" : "Bult"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -577,12 +357,7 @@
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : "Dubb",
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 129910.3592, 6175578.8673, 39.880999999993946 ]
-		}
+		"Markeringstyp" : "Dubb"
 	},
 	{
 		"json_featuretype" : "koder",
@@ -590,11 +365,6 @@
 		"Punkttyp" : null,
 		"Tillbehör" : null,
 		"Material" : null,
-		"Markeringstyp" : null,
-		"json_ogc_wkt_crs" : "PROJCS[\"SWEREF 99 13 30\",GEOGCS[\"SWEREF99\",DATUM[\"SWEREF99\",SPHEROID[\"Geodetic Reference System of 1980\",6378137,298.2572221008916]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",13.5],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",150000],PARAMETER[\"false_northing\",0],UNIT[\"METER\",1],AUTHORITY[\"EPSG\",\"3008\"]]",
-		"json_geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 133946.2055, 6178575.2724, 75.785999999992782 ]
-		}
+		"Markeringstyp" : null
 	}
 ]
