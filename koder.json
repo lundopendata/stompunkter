@@ -1,6 +1,6 @@
 [
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "22",
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
@@ -8,7 +8,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "3",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -16,7 +16,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "16",
 		"Punkttyp" : null,
 		"Tillbehör" : null,
@@ -24,7 +24,7 @@
 		"Markeringstyp" : "Prisma"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "0",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -32,7 +32,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "30",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -40,7 +40,7 @@
 		"Markeringstyp" : "Spira"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "6",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -48,7 +48,7 @@
 		"Markeringstyp" : "Hål"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "23",
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
@@ -56,7 +56,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "7",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -64,7 +64,7 @@
 		"Markeringstyp" : "Hål"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "2",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -72,7 +72,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "28",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -80,7 +80,7 @@
 		"Markeringstyp" : "Antenn"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "27",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -88,7 +88,7 @@
 		"Markeringstyp" : "Bult"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "5",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -96,7 +96,7 @@
 		"Markeringstyp" : "Hål"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "4",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -104,7 +104,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "17",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -112,7 +112,7 @@
 		"Markeringstyp" : "Spik"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "10",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -120,7 +120,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "16",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -128,7 +128,7 @@
 		"Markeringstyp" : "Prisma"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "26",
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
@@ -136,7 +136,7 @@
 		"Markeringstyp" : "Spik"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "29",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -144,7 +144,7 @@
 		"Markeringstyp" : "Spira"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "31",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -152,7 +152,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "1",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -160,7 +160,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "32",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -168,7 +168,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "9",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -176,7 +176,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "0",
 		"Punkttyp" : null,
 		"Tillbehör" : null,
@@ -184,7 +184,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "24",
 		"Punkttyp" : "SP",
 		"Tillbehör" : "Däcksel",
@@ -192,7 +192,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "25",
 		"Punkttyp" : "SP",
 		"Tillbehör" : null,
@@ -200,7 +200,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "10",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -208,7 +208,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "9",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -216,7 +216,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "22",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : "Däcksel",
@@ -224,7 +224,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "9",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -232,7 +232,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "22",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : "Däcksel",
@@ -240,7 +240,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "11",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -248,7 +248,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "0",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -256,7 +256,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "11",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -264,7 +264,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "0",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -272,7 +272,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "8",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -280,7 +280,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "3",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -288,7 +288,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "2",
 		"Punkttyp" : "FIX",
 		"Tillbehör" : null,
@@ -296,7 +296,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "11",
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
@@ -304,7 +304,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "22",
 		"Punkttyp" : "",
 		"Tillbehör" : "Däcksel",
@@ -312,7 +312,7 @@
 		"Markeringstyp" : "Rör"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "6",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -320,7 +320,7 @@
 		"Markeringstyp" : "Hål"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "8",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -328,7 +328,7 @@
 		"Markeringstyp" : null
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "10",
 		"Punkttyp" : "RAKFIX",
 		"Tillbehör" : null,
@@ -336,7 +336,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "10",
 		"Punkttyp" : null,
 		"Tillbehör" : null,
@@ -344,7 +344,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "27",
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
@@ -352,7 +352,7 @@
 		"Markeringstyp" : "Bult"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "10",
 		"Punkttyp" : "Sättningsfix",
 		"Tillbehör" : null,
@@ -360,7 +360,7 @@
 		"Markeringstyp" : "Dubb"
 	},
 	{
-		"json_featuretype" : "koder",
+		"json_featuretype" : "kod",
 		"Kod" : "11",
 		"Punkttyp" : null,
 		"Tillbehör" : null,
