@@ -88945,25 +88945,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.23418739286919, 55.71949152172145, 83.6420000000071 ]
-			},
-			"properties" : {
-				"Namn" : "646",
-				"X" : "6177363.42",
-				"Y" : "133295.314",
-				"Z" : "83.642",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.025",
-				"Markeringstyp" : "Prisma",
-				"Punkttyp" : "SP",
-				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.230860535209182, 55.717649215457996, 88.80240000000049 ]
 			},
 			"properties" : {
