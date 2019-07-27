@@ -90104,44 +90104,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.179201227874405, 55.719868520937176, 40.7609999999986 ]
-			},
-			"properties" : {
-				"Namn" : "3458",
-				"X" : "6177420.01",
-				"Y" : "129839.978",
-				"Z" : "40.761",
-				"Medelfel höjd (m)" : null,
-				"Medelfel plan (m)" : "2.5",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.178375418182847, 55.71805161465763, 40.54300000000512 ]
-			},
-			"properties" : {
-				"Namn" : "3459",
-				"X" : "6177217.963",
-				"Y" : "129787.143",
-				"Z" : "40.543",
-				"Medelfel höjd (m)" : null,
-				"Medelfel plan (m)" : "2.5",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.248365372396686, 55.75124326676932, 62.94800000000396 ]
 			},
 			"properties" : {
@@ -90174,25 +90136,6 @@
 				"Punkttyp" : "FIX",
 				"Underlag" : "Mark",
 				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.172146237078946, 55.743009286474596, 31.36699999999837 ]
-			},
-			"properties" : {
-				"Namn" : "3141",
-				"X" : "6179998.49",
-				"Y" : "129408.805",
-				"Z" : "31.367",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Sten",
-				"Material" : null
 			}
 		},
 		{
@@ -90553,25 +90496,6 @@
 				"Markeringstyp" : null,
 				"Punkttyp" : "FIX",
 				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.17243266566542, 55.74069703988686, 35.67399999999907 ]
-			},
-			"properties" : {
-				"Namn" : "9974",
-				"X" : "6179740.968",
-				"Y" : "129425.578",
-				"Z" : "35.674",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Sten",
 				"Material" : null
 			}
 		},
@@ -91004,25 +90928,6 @@
 				"X" : "6178853.679",
 				"Y" : "127035.095",
 				"Z" : "23.226",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Sten",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.166783091481994, 55.732079246299705, 33.05599999999686 ]
-			},
-			"properties" : {
-				"Namn" : "3241",
-				"X" : "6178783.185",
-				"Y" : "129066.119",
-				"Z" : "33.056",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "20",
 				"Markeringstyp" : "Dubb",
@@ -91599,63 +91504,6 @@
 				"Punkttyp" : "FIX",
 				"Underlag" : "Mark",
 				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.205496522011547, 55.69620785401353, 27.313999999998487 ]
-			},
-			"properties" : {
-				"Namn" : "3662",
-				"X" : "6174778.395",
-				"Y" : "131481.266",
-				"Z" : "27.314",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.201722485171393, 55.70273590572688, 43.330000000001746 ]
-			},
-			"properties" : {
-				"Namn" : "3664",
-				"X" : "6175506.215",
-				"Y" : "131247.077",
-				"Z" : "43.33",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.211449218065193, 55.69907138539689, 36.03299999999581 ]
-			},
-			"properties" : {
-				"Namn" : "3666",
-				"X" : "6175095.635",
-				"Y" : "131856.904",
-				"Z" : "36.033",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
 			}
 		},
 		{
@@ -92764,44 +92612,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.213514646784475, 55.69522841287022, 25.953999999997905 ]
-			},
-			"properties" : {
-				"Namn" : "3667",
-				"X" : "6174667.236",
-				"Y" : "131985.003",
-				"Z" : "25.954",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.216245038977732, 55.7018771153772, 46.9320000000007 ]
-			},
-			"properties" : {
-				"Namn" : "3669",
-				"X" : "6175406.769",
-				"Y" : "132159.726",
-				"Z" : "46.932",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.217649926256225, 55.69844881865974, 36.25100000000384 ]
 			},
 			"properties" : {
@@ -93353,25 +93163,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.176120529484093, 55.723453758586324, 41.161999999996624 ]
-			},
-			"properties" : {
-				"Namn" : "3344",
-				"X" : "6177820.076",
-				"Y" : "129648.242",
-				"Z" : "41.162",
-				"Medelfel höjd (m)" : null,
-				"Medelfel plan (m)" : "2.5",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.168016703365296, 55.72210770207677, 35.88999999999942 ]
 			},
 			"properties" : {
@@ -93543,25 +93334,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.183408618227677, 55.759235072103536, 33.379000000000815 ]
-			},
-			"properties" : {
-				"Namn" : "1751",
-				"X" : "6181801.727",
-				"Y" : "130124.399",
-				"Z" : "33.379",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.266846334720329, 55.76375970192122, 35.862999999997555 ]
 			},
 			"properties" : {
@@ -93613,44 +93385,6 @@
 				"Punkttyp" : "FIX",
 				"Underlag" : "Gjutning",
 				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.166432036846484, 55.70715292678207, 28.75900000000547 ]
-			},
-			"properties" : {
-				"Namn" : "3541",
-				"X" : "6176008.094",
-				"Y" : "129030.714",
-				"Z" : "28.759",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.168164322592826, 55.747240332953425, 34.03200000000652 ]
-			},
-			"properties" : {
-				"Namn" : "3142",
-				"X" : "6180470.75",
-				"Y" : "129160.973",
-				"Z" : "34.032",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
 			}
 		},
 		{
@@ -94227,25 +93961,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.196487947997083, 55.7509695264893, 47.945000000006985 ]
-			},
-			"properties" : {
-				"Namn" : "1842",
-				"X" : "6180877.795",
-				"Y" : "130941.486",
-				"Z" : "47.945",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Sten",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.215243893365074, 55.752253236099385, 54.85099999999511 ]
 			},
 			"properties" : {
@@ -94259,44 +93974,6 @@
 				"Punkttyp" : "FIX",
 				"Underlag" : "Mark",
 				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.201484861154016, 55.753377542635576, 47.95100000000093 ]
-			},
-			"properties" : {
-				"Namn" : "1862",
-				"X" : "6181144.533",
-				"Y" : "131256.412",
-				"Z" : "47.951",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Sten",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.199360565912725, 55.75027734076798, 47.21700000000419 ]
-			},
-			"properties" : {
-				"Namn" : "1863",
-				"X" : "6180799.943",
-				"Y" : "131121.533",
-				"Z" : "47.217",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
 			}
 		},
 		{
@@ -94354,25 +94031,6 @@
 				"Punkttyp" : "FIX",
 				"Underlag" : "Sten",
 				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.17577561926857, 55.732670211754495, 39.312999999994645 ]
-			},
-			"properties" : {
-				"Namn" : "3251",
-				"X" : "6178846.303",
-				"Y" : "129631.367",
-				"Z" : "39.313",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Mark",
-				"Material" : "Järn"
 			}
 		},
 		{
@@ -96792,25 +96450,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.207693351452807, 55.69359992025454, 25.345000000001164 ]
-			},
-			"properties" : {
-				"Namn" : "3762",
-				"X" : "6174487.454",
-				"Y" : "131618.181",
-				"Z" : "25.345",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.168492993991197, 55.72632928957367, 32.43600000000151 ]
 			},
 			"properties" : {
@@ -97032,25 +96671,6 @@
 				"Markeringstyp" : null,
 				"Punkttyp" : "RAKFIX",
 				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.200282290793824, 55.705370553544505, 48.346999999994296 ]
-			},
-			"properties" : {
-				"Namn" : "3565",
-				"X" : "6175799.936",
-				"Y" : "131157.798",
-				"Z" : "48.347",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "20",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : "FIX",
-				"Underlag" : "Gjutning",
 				"Material" : null
 			}
 		},
@@ -100668,6 +100288,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.178577662271426, 55.7154597244827, 45.304000000003725 ]
+			},
+			"properties" : {
+				"Namn" : "3453",
+				"X" : "6176929.333",
+				"Y" : "129798.516",
+				"Z" : "45.304",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.172860460568494, 55.71404174550942, 38.036999999996624 ]
 			},
 			"properties" : {
@@ -100695,25 +100334,6 @@
 				"Y" : "129701.659",
 				"Z" : "39.145",
 				"Medelfel höjd (m)" : null,
-				"Medelfel plan (m)" : "0.025",
-				"Markeringstyp" : null,
-				"Punkttyp" : "FIX",
-				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.178577662271426, 55.7154597244827, 45.304000000003725 ]
-			},
-			"properties" : {
-				"Namn" : "3453",
-				"X" : "6176929.333",
-				"Y" : "129798.516",
-				"Z" : "45.304",
-				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.025",
 				"Markeringstyp" : null,
 				"Punkttyp" : "FIX",
@@ -100763,25 +100383,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.201449893231937, 55.70927225930355, 63.263000000006286 ]
-			},
-			"properties" : {
-				"Namn" : "3564",
-				"X" : "6176234.019",
-				"Y" : "131233.071",
-				"Z" : "63.263",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Markeringstyp" : null,
-				"Punkttyp" : "FIX",
-				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.208393079579578, 55.707492702563016, 60.60599999999977 ]
 			},
 			"properties" : {
@@ -100808,6 +100409,25 @@
 				"X" : "6176505.933",
 				"Y" : "131398.63",
 				"Z" : "72.113",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.201449893231937, 55.70927225930355, 63.263000000006286 ]
+			},
+			"properties" : {
+				"Namn" : "3564",
+				"X" : "6176234.019",
+				"Y" : "131233.071",
+				"Z" : "63.263",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.05",
 				"Markeringstyp" : null,
@@ -101247,10 +100867,390 @@
 				"Z" : "31.04",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.201484861154016, 55.753377542635576, 47.95100000000093 ]
+			},
+			"properties" : {
+				"Namn" : "1862",
+				"X" : "6181144.533",
+				"Y" : "131256.412",
+				"Z" : "47.951",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.199360565912725, 55.75027734076798, 47.21700000000419 ]
+			},
+			"properties" : {
+				"Namn" : "1863",
+				"X" : "6180799.943",
+				"Y" : "131121.533",
+				"Z" : "47.217",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
 				"Markeringstyp" : "Dubb",
 				"Punkttyp" : "FIX",
 				"Underlag" : "Gjutning",
 				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.196485794327158, 55.75097124027994, 47.945000000006985 ]
+			},
+			"properties" : {
+				"Namn" : "1842",
+				"X" : "6180877.986",
+				"Y" : "130941.352",
+				"Z" : "47.945",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Dubb",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Sten",
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.172434085908627, 55.74069893164404, 35.67399999999907 ]
+			},
+			"properties" : {
+				"Namn" : "9974",
+				"X" : "6179741.178",
+				"Y" : "129425.668",
+				"Z" : "35.674",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Dubb",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Sten",
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.183408422597955, 55.75923562577392, 33.379000000000815 ]
+			},
+			"properties" : {
+				"Namn" : "1751",
+				"X" : "6181801.789",
+				"Y" : "130124.387",
+				"Z" : "33.379",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.1721459629454, 55.74300969890519, 31.36699999999837 ]
+			},
+			"properties" : {
+				"Namn" : "3141",
+				"X" : "6179998.536",
+				"Y" : "129408.788",
+				"Z" : "31.367",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.168164132713216, 55.74724075368606, 34.03200000000652 ]
+			},
+			"properties" : {
+				"Namn" : "3142",
+				"X" : "6180470.797",
+				"Y" : "129160.961",
+				"Z" : "34.032",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.175768225085642, 55.73269809868215, 39.312999999994645 ]
+			},
+			"properties" : {
+				"Namn" : "3251",
+				"X" : "6178849.41",
+				"Y" : "129630.918",
+				"Z" : "39.313",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.176112716968516, 55.723455136457446, 41.161999999996624 ]
+			},
+			"properties" : {
+				"Namn" : "3344",
+				"X" : "6177820.232",
+				"Y" : "129647.752",
+				"Z" : "41.162",
+				"Medelfel höjd (m)" : null,
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Dubb",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Gjutning",
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.166783091481994, 55.732079246299705, 33.05599999999686 ]
+			},
+			"properties" : {
+				"Namn" : "3241",
+				"X" : "6178783.185",
+				"Y" : "129066.119",
+				"Z" : "33.056",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.179201227874405, 55.719868520937176, 40.7609999999986 ]
+			},
+			"properties" : {
+				"Namn" : "3458",
+				"X" : "6177420.01",
+				"Y" : "129839.978",
+				"Z" : "40.761",
+				"Medelfel höjd (m)" : null,
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Dubb",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Gjutning",
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.178256555745522, 55.71797943898623, 40.54300000000512 ]
+			},
+			"properties" : {
+				"Namn" : "3459",
+				"X" : "6177209.962",
+				"Y" : "129779.636",
+				"Z" : "40.543",
+				"Medelfel höjd (m)" : null,
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Dubb",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Gjutning",
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.166431126052734, 55.707151536614816, 28.75900000000547 ]
+			},
+			"properties" : {
+				"Namn" : "3541",
+				"X" : "6176007.939",
+				"Y" : "129030.656",
+				"Z" : "28.759",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.205496522011547, 55.69620785401353, 27.313999999998487 ]
+			},
+			"properties" : {
+				"Namn" : "3662",
+				"X" : "6174778.395",
+				"Y" : "131481.266",
+				"Z" : "27.314",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.211449218065193, 55.69907138539689, 36.03299999999581 ]
+			},
+			"properties" : {
+				"Namn" : "3666",
+				"X" : "6175095.635",
+				"Y" : "131856.904",
+				"Z" : "36.033",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.213513112494438, 55.69522858713135, 25.953999999997905 ]
+			},
+			"properties" : {
+				"Namn" : "3667",
+				"X" : "6174667.256",
+				"Y" : "131984.907",
+				"Z" : "25.954",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.216245038977732, 55.7018771153772, 46.9320000000007 ]
+			},
+			"properties" : {
+				"Namn" : "3669",
+				"X" : "6175406.769",
+				"Y" : "132159.726",
+				"Z" : "46.932",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.207693351452807, 55.69359992025454, 25.345000000001164 ]
+			},
+			"properties" : {
+				"Namn" : "3762",
+				"X" : "6174487.454",
+				"Y" : "131618.181",
+				"Z" : "25.345",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.200282290793824, 55.705370553544505, 48.346999999994296 ]
+			},
+			"properties" : {
+				"Namn" : "3565",
+				"X" : "6175799.936",
+				"Y" : "131157.798",
+				"Z" : "48.347",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "FIX",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.201693917986534, 55.702739108425995, 43.330000000001746 ]
+			},
+			"properties" : {
+				"Namn" : "3664",
+				"X" : "6175506.579",
+				"Y" : "131245.282",
+				"Z" : "43.33",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "FIX",
+				"Underlag" : "Mark",
+				"Material" : "Järn"
 			}
 		}
 	]
