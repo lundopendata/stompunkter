@@ -85012,25 +85012,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.21009790596288, 55.68377396973458, 24.1929999999993 ]
-			},
-			"properties" : {
-				"Namn" : "148",
-				"X" : "6173392.841",
-				"Y" : "131764.82",
-				"Z" : "24.193",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.025",
-				"Markeringstyp" : "Spik",
-				"Punkttyp" : "SP",
-				"Underlag" : "Asfalt",
-				"Material" : "Stål"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.18622549620307, 55.691167249721616, 26.089999999996508 ]
 			},
 			"properties" : {
@@ -90016,6 +89997,25 @@
 				"X" : "6168444.014",
 				"Y" : "150352.52",
 				"Z" : "32.823",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Spik",
+				"Punkttyp" : "SP",
+				"Underlag" : "Asfalt",
+				"Material" : "Stål"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.21009790596288, 55.68377396973458, 24.17500000000291 ]
+			},
+			"properties" : {
+				"Namn" : "148",
+				"X" : "6173392.841",
+				"Y" : "131764.82",
+				"Z" : "24.175",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.025",
 				"Markeringstyp" : "Spik",
