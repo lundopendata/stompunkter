@@ -99642,25 +99642,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.193439891436428, 55.71093536866529, 53.97400000000198 ]
-			},
-			"properties" : {
-				"Namn" : "3586",
-				"X" : "6176421.38",
-				"Y" : "130730.381",
-				"Z" : "53.974",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Markeringstyp" : "Dubb",
-				"Punkttyp" : null,
-				"Underlag" : "Gjutning",
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.19714788408873, 55.713001147708724, 59.65799999999581 ]
 			},
 			"properties" : {
