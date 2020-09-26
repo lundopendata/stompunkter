@@ -101594,6 +101594,25 @@
 				"Underlag" : "Gjutning",
 				"Material" : null
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.208393077962088, 55.70749270615189, 60.60599999999977 ]
+			},
+			"properties" : {
+				"Namn" : "3566",
+				"X" : "6176034.034",
+				"Y" : "131668.687",
+				"Z" : "60.606",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.2",
+				"Markeringstyp" : null,
+				"Punkttyp" : null,
+				"Underlag" : null,
+				"Material" : null
+			}
 		}
 	]
 }
