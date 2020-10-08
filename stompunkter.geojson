@@ -89952,25 +89952,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.190679028360751, 55.75019536945279, 45.85899999999674 ]
-			},
-			"properties" : {
-				"Namn" : "168",
-				"X" : "6180793.215",
-				"Y" : "130576.342",
-				"Z" : "45.859",
-				"Medelfel höjd (m)" : "10",
-				"Medelfel plan (m)" : "0.025",
-				"Markeringstyp" : "Spik",
-				"Punkttyp" : null,
-				"Underlag" : "Asfalt",
-				"Material" : "Stål"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.209610631453128, 55.68309603081995, 23.127699999997276 ]
 			},
 			"properties" : {
