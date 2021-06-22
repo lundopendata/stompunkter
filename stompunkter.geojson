@@ -9373,6 +9373,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.183975556354747, 55.70221171676636, 36.362999999997555 ]
+			},
+			"properties" : {
+				"Namn" : "31109",
+				"X" : "6175452.795",
+				"Y" : "130131.052",
+				"Z" : "36.363",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "SP",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.183201429711985, 55.702600782629574, 37.25100000000384 ]
 			},
 			"properties" : {
@@ -53396,6 +53415,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.351058448910567, 55.67784581675894, 86.1710000000021 ]
+			},
+			"properties" : {
+				"Namn" : "48307",
+				"X" : "6172704.779",
+				"Y" : "140629.975",
+				"Z" : "86.171",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : "SP",
+				"Underlag" : "Gjutning",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.329437483796184, 55.67901056760683, 71.94000000000233 ]
 			},
 			"properties" : {
@@ -91161,44 +91199,6 @@
 				"Markeringstyp" : "Rör",
 				"Punkttyp" : null,
 				"Underlag" : "Mark",
-				"Material" : "Järn"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.183975556354747, 55.70221171676636, 36.362999999997555 ]
-			},
-			"properties" : {
-				"Namn" : "31109",
-				"X" : "6175452.795",
-				"Y" : "130131.052",
-				"Z" : "36.363",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Markeringstyp" : null,
-				"Punkttyp" : "SP",
-				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.351058448910567, 55.67784581675894, 86.1710000000021 ]
-			},
-			"properties" : {
-				"Namn" : "48307",
-				"X" : "6172704.779",
-				"Y" : "140629.975",
-				"Z" : "86.171",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Markeringstyp" : "Rör",
-				"Punkttyp" : "SP",
-				"Underlag" : "Gjutning",
 				"Material" : "Järn"
 			}
 		},
