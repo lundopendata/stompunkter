@@ -88242,25 +88242,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.231022636670556, 55.717063089372864, 84.69999999999709 ]
-			},
-			"properties" : {
-				"Namn" : "600",
-				"X" : "6177093.814",
-				"Y" : "133095.38",
-				"Z" : "84.7",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.025",
-				"Markeringstyp" : "Spik",
-				"Punkttyp" : "SP",
-				"Underlag" : "Asfalt",
-				"Material" : "Stål"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.23074280999357, 55.71703632133199, 85.16599999999744 ]
 			},
 			"properties" : {
@@ -91200,6 +91181,25 @@
 				"Punkttyp" : null,
 				"Underlag" : "Mark",
 				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.231022636670556, 55.717063089372864, 84.69999999999709 ]
+			},
+			"properties" : {
+				"Namn" : "600",
+				"X" : "6177093.814",
+				"Y" : "133095.38",
+				"Z" : "84.7",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Spik",
+				"Punkttyp" : "SP",
+				"Underlag" : "Asfalt",
+				"Material" : "Stål"
 			}
 		},
 		{
