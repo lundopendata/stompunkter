@@ -91206,6 +91206,101 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.17767175911139, 55.72385345736088, 41.92699999999604 ]
+			},
+			"properties" : {
+				"Namn" : "757",
+				"X" : "6177864.123",
+				"Y" : "129745.924",
+				"Z" : "41.927",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Spik",
+				"Punkttyp" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.17824561784879, 55.72397866808446, 42.976699999999255 ]
+			},
+			"properties" : {
+				"Namn" : "758",
+				"X" : "6177877.896",
+				"Y" : "129782.048",
+				"Z" : "42.977",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Spik",
+				"Punkttyp" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.177347027712518, 55.72419896141979, 41.94969999999739 ]
+			},
+			"properties" : {
+				"Namn" : "759",
+				"X" : "6177902.685",
+				"Y" : "129725.698",
+				"Z" : "41.95",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Spik",
+				"Punkttyp" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.17678166490889, 55.724524853207264, 43.19310000000405 ]
+			},
+			"properties" : {
+				"Namn" : "760",
+				"X" : "6177939.134",
+				"Y" : "129690.342",
+				"Z" : "43.193",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : null,
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.177540029655349, 55.724773576291234, 43.66800000000512 ]
+			},
+			"properties" : {
+				"Namn" : "761",
+				"X" : "6177966.604",
+				"Y" : "129738.123",
+				"Z" : "43.668",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Markeringstyp" : "Rör",
+				"Punkttyp" : null,
+				"Underlag" : "Mark",
+				"Material" : "Järn"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.190309423749937, 55.72515280300386, 51.41400000000431 ]
 			},
 			"properties" : {
