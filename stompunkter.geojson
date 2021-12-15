@@ -91339,13 +91339,13 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.166754141596698, 55.710016293707426, 34.18399999999383 ]
+				"coordinates" : [ 13.240249479278487, 55.692245497383155, 38.64100000000326 ]
 			},
 			"properties" : {
-				"Namn" : "35478",
-				"X" : "6176326.792",
-				"Y" : "129052.495",
-				"Z" : "34.184",
+				"Namn" : "37722",
+				"X" : "6174328.511",
+				"Y" : "133664.916",
+				"Z" : "38.641",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.025",
 				"Markeringstyp" : "Rör",
@@ -91358,13 +91358,13 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.240249479278487, 55.692245497383155, 38.64100000000326 ]
+				"coordinates" : [ 13.166754141596698, 55.710016293707426, 34.18399999999383 ]
 			},
 			"properties" : {
-				"Namn" : "37722",
-				"X" : "6174328.511",
-				"Y" : "133664.916",
-				"Z" : "38.641",
+				"Namn" : "35478",
+				"X" : "6176326.792",
+				"Y" : "129052.495",
+				"Z" : "34.184",
 				"Medelfel höjd (m)" : "0.025",
 				"Medelfel plan (m)" : "0.025",
 				"Markeringstyp" : "Rör",
@@ -101086,6 +101086,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.1966282295213, 55.70297832978845, 39.61599999999453 ]
+			},
+			"properties" : {
+				"Namn" : "S124",
+				"X" : "6175534.594",
+				"Y" : "130926.916",
+				"Z" : "39.616",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Markeringstyp" : null,
+				"Punkttyp" : "Sättningsfix",
+				"Underlag" : null,
+				"Material" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.19497570452603, 55.70103541971689, 35.554000000003725 ]
 			},
 			"properties" : {
@@ -102522,25 +102541,6 @@
 				"Medelfel plan (m)" : "0.2",
 				"Markeringstyp" : null,
 				"Punkttyp" : null,
-				"Underlag" : null,
-				"Material" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.1966282295213, 55.70297832978845, 39.61599999999453 ]
-			},
-			"properties" : {
-				"Namn" : "S124",
-				"X" : "6175534.594",
-				"Y" : "130926.916",
-				"Z" : "39.616",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Markeringstyp" : null,
-				"Punkttyp" : "Sättningsfix",
 				"Underlag" : null,
 				"Material" : null
 			}
