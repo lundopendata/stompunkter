@@ -105826,6 +105826,94 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.229628426389292, 55.71764066626761, 130.3969999999972 ]
+			},
+			"properties" : {
+				"Namn" : "764",
+				"X" : "6177158.46",
+				"Y" : "133008.008",
+				"Z" : "130.397",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 16,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : "Prisma"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.221333628608477, 55.71865788441063, 126.90380000000005 ]
+			},
+			"properties" : {
+				"Namn" : "763",
+				"X" : "6177273.777",
+				"Y" : "132487.163",
+				"Z" : "126.904",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 16,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : "Prisma"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.22845342732237, 55.72093361364865, 90.7554999999993 ]
+			},
+			"properties" : {
+				"Namn" : "765",
+				"X" : "6177525.373",
+				"Y" : "132935.599",
+				"Z" : "90.755",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 16,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : "Prisma"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.228603359096539, 55.72172320239614, 91.37949999999546 ]
+			},
+			"properties" : {
+				"Namn" : "766",
+				"X" : "6177613.246",
+				"Y" : "132945.365",
+				"Z" : "91.379",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 16,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : "Prisma"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.190309423749937, 55.72515280300386, 51.41400000000431 ]
 			},
 			"properties" : {
