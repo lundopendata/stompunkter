@@ -105672,28 +105672,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.158411179402501, 55.71604718470694, 26.93210000000545 ]
-			},
-			"properties" : {
-				"Namn" : null,
-				"X" : "6177000.798",
-				"Y" : "128531.374",
-				"Z" : "26.932",
-				"Medelfel höjd (m)" : "10",
-				"Medelfel plan (m)" : "50",
-				"Kod" : 0,
-				"Punkttyp" : null,
-				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.1713211149963, 55.70872104316309, 35.91700000000128 ]
 			},
 			"properties" : {
