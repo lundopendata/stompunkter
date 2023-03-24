@@ -117574,28 +117574,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.19277601166728, 55.707181579471914, 48.53900000000431 ]
-			},
-			"properties" : {
-				"Namn" : "S148",
-				"X" : "6176003.633",
-				"Y" : "130686.8",
-				"Z" : "48.539",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 11,
-				"Punkttyp" : "Sättningsfix",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.192787403197656, 55.70728638457924, 48.81100000000151 ]
 			},
 			"properties" : {
@@ -118817,6 +118795,28 @@
 				"Medelfel plan (m)" : "0.2",
 				"Kod" : 11,
 				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.19277756772744, 55.70718640660568, 48.53900000000431 ]
+			},
+			"properties" : {
+				"Namn" : "S148",
+				"X" : "6176004.17",
+				"Y" : "130686.9",
+				"Z" : "48.539",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 11,
+				"Punkttyp" : "Sättningsfix",
 				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
 				"Tillbehör" : null,
 				"Underlag" : null,
