@@ -105936,6 +105936,94 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 13.201260910507383, 55.684847083004236, 24.70900000000256 ]
+			},
+			"properties" : {
+				"Namn" : "38537",
+				"X" : "6173514.675",
+				"Y" : "131209.479",
+				"Z" : "24.709",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 3,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Mark",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.200564559022066, 55.683042961117685, 23.177999999999884 ]
+			},
+			"properties" : {
+				"Namn" : "38538",
+				"X" : "6173314.001",
+				"Y" : "131164.812",
+				"Z" : "23.178",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 3,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Mark",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.202920501518282, 55.68331813977772, 22.9829999999929 ]
+			},
+			"properties" : {
+				"Namn" : "38539",
+				"X" : "6173344.001",
+				"Y" : "131313.137",
+				"Z" : "22.983",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 3,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Mark",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.205011291239126, 55.682187666971906, 21.736000000004424 ]
+			},
+			"properties" : {
+				"Namn" : "38540",
+				"X" : "6173217.578",
+				"Y" : "131444.116",
+				"Z" : "21.736",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 22,
+				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : "Däcksel",
+				"Underlag" : "Mark",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 13.213197404639114, 55.72232336438022, 66.9030000000057 ]
 			},
 			"properties" : {
@@ -118080,28 +118168,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.203077569087943, 55.6822214554867, 22.089000000007218 ]
-			},
-			"properties" : {
-				"Namn" : "3861",
-				"X" : "6173221.859",
-				"Y" : "131322.494",
-				"Z" : "22.089",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 22,
-				"Punkttyp" : "FIX",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : "Däcksel",
-				"Underlag" : "Mark",
-				"Material" : "Järn",
-				"Markeringstyp" : "Rör"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.222644392814916, 55.67310441658006, 17.668999999994412 ]
 			},
 			"properties" : {
@@ -118800,6 +118866,28 @@
 				"Underlag" : null,
 				"Material" : null,
 				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.203061096936265, 55.68222555808598, 22.089000000007218 ]
+			},
+			"properties" : {
+				"Namn" : "3861",
+				"X" : "6173222.32",
+				"Y" : "131321.46",
+				"Z" : "22.089",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 22,
+				"Punkttyp" : "FIX",
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : "Däcksel",
+				"Underlag" : "Mark",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
 			}
 		},
 		{
