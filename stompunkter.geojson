@@ -37780,28 +37780,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.197365739410728, 55.71106572263748, 62.21400000000722 ]
-			},
-			"properties" : {
-				"Namn" : "35501",
-				"X" : "6176434.809",
-				"Y" : "130977.213",
-				"Z" : "62.214",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 23,
-				"Punkttyp" : "SP",
-				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
-				"Tillbehör" : "Däcksel",
-				"Underlag" : "Gjutning",
-				"Material" : "Järn",
-				"Markeringstyp" : "Rör"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.176855076274823, 55.71033650998392, 37.30599999999686 ]
 			},
 			"properties" : {
@@ -55981,28 +55959,6 @@
 				"X" : "6176445.183",
 				"Y" : "131171.623",
 				"Z" : "62.915",
-				"Medelfel höjd (m)" : "0.05",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 17,
-				"Punkttyp" : "SP",
-				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : "Asfalt",
-				"Material" : "Stål",
-				"Markeringstyp" : "Spik"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.19969262928538, 55.71052865860982, 62.995999999999185 ]
-			},
-			"properties" : {
-				"Namn" : "25601",
-				"X" : "6176374.379",
-				"Y" : "131123.215",
-				"Z" : "62.996",
 				"Medelfel höjd (m)" : "0.05",
 				"Medelfel plan (m)" : "0.05",
 				"Kod" : 17,
@@ -92978,50 +92934,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.236361813982784, 55.695469134574765, 48.66599999999744 ]
-			},
-			"properties" : {
-				"Namn" : "415",
-				"X" : "6174688.34",
-				"Y" : "133421.795",
-				"Z" : "48.666",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.025",
-				"Kod" : 17,
-				"Punkttyp" : "SP",
-				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : "Asfalt",
-				"Material" : "Stål",
-				"Markeringstyp" : "Spik"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.240547077083237, 55.69415142698737, 46.11999999999534 ]
-			},
-			"properties" : {
-				"Namn" : "416",
-				"X" : "6174540.639",
-				"Y" : "133684.425",
-				"Z" : "46.12",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.025",
-				"Kod" : 17,
-				"Punkttyp" : "SP",
-				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : "Asfalt",
-				"Material" : "Stål",
-				"Markeringstyp" : "Spik"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.2515825350255, 55.69958683970003, 65.82060000000638 ]
 			},
 			"properties" : {
@@ -106431,6 +106343,94 @@
 				"Medelfel plan (m)" : "0.025",
 				"Kod" : 17,
 				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål",
+				"Markeringstyp" : "Spik"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.197365739410728, 55.71106572263748, 62.21400000000722 ]
+			},
+			"properties" : {
+				"Namn" : "35501",
+				"X" : "6176434.809",
+				"Y" : "130977.213",
+				"Z" : "62.214",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 23,
+				"Punkttyp" : "SP",
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : "Däcksel",
+				"Underlag" : "Gjutning",
+				"Material" : "Järn",
+				"Markeringstyp" : "Rör"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.19969262928538, 55.71052865860982, 62.995999999999185 ]
+			},
+			"properties" : {
+				"Namn" : "25601",
+				"X" : "6176374.379",
+				"Y" : "131123.215",
+				"Z" : "62.996",
+				"Medelfel höjd (m)" : "0.05",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 17,
+				"Punkttyp" : "SP",
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål",
+				"Markeringstyp" : "Spik"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.236361813982784, 55.695469134574765, 48.66599999999744 ]
+			},
+			"properties" : {
+				"Namn" : "415",
+				"X" : "6174688.34",
+				"Y" : "133421.795",
+				"Z" : "48.666",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 17,
+				"Punkttyp" : "SP",
+				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : "Asfalt",
+				"Material" : "Stål",
+				"Markeringstyp" : "Spik"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.240547077083237, 55.69415142698737, 46.11999999999534 ]
+			},
+			"properties" : {
+				"Namn" : "416",
+				"X" : "6174540.639",
+				"Y" : "133684.425",
+				"Z" : "46.12",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.025",
+				"Kod" : 17,
+				"Punkttyp" : "SP",
 				"fme_feature_type" : "GNG.MAPHORIZONTALPOINT",
 				"Tillbehör" : null,
 				"Underlag" : "Asfalt",
