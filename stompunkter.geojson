@@ -116980,94 +116980,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 13.192548523908453, 55.702639069713214, 38.0850000000064 ]
-			},
-			"properties" : {
-				"Namn" : "S103",
-				"X" : "6175497.952",
-				"Y" : "130670.257",
-				"Z" : "38.085",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 11,
-				"Punkttyp" : "Sättningsfix",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.192519903302891, 55.70276709968206, 38.520000000004075 ]
-			},
-			"properties" : {
-				"Namn" : "S102",
-				"X" : "6175512.214",
-				"Y" : "130668.521",
-				"Z" : "38.52",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 11,
-				"Punkttyp" : "Sättningsfix",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.192482287850327, 55.70294232013202, 38.546000000002095 ]
-			},
-			"properties" : {
-				"Namn" : "S101",
-				"X" : "6175531.733",
-				"Y" : "130666.242",
-				"Z" : "38.546",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 11,
-				"Punkttyp" : "Sättningsfix",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 13.192466824568623, 55.70330768756692, 39.42500000000291 ]
-			},
-			"properties" : {
-				"Namn" : "S100",
-				"X" : "6175572.416",
-				"Y" : "130665.451",
-				"Z" : "39.425",
-				"Medelfel höjd (m)" : "0.025",
-				"Medelfel plan (m)" : "0.05",
-				"Kod" : 11,
-				"Punkttyp" : "Sättningsfix",
-				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
-				"Tillbehör" : null,
-				"Underlag" : null,
-				"Material" : null,
-				"Markeringstyp" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 13.192495979958192, 55.70365026571897, 40.25299999999697 ]
 			},
 			"properties" : {
@@ -119345,6 +119257,94 @@
 				"Medelfel plan (m)" : "0.2",
 				"Kod" : 11,
 				"Punkttyp" : null,
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.192548523908453, 55.702639069713214, 38.08430000000226 ]
+			},
+			"properties" : {
+				"Namn" : "S103",
+				"X" : "6175497.952",
+				"Y" : "130670.257",
+				"Z" : "38.084",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 11,
+				"Punkttyp" : "Sättningsfix",
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.192519903302891, 55.70276709968206, 38.51940000000468 ]
+			},
+			"properties" : {
+				"Namn" : "S102",
+				"X" : "6175512.214",
+				"Y" : "130668.521",
+				"Z" : "38.519",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 11,
+				"Punkttyp" : "Sättningsfix",
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.192482287850327, 55.70294232013202, 38.54290000000037 ]
+			},
+			"properties" : {
+				"Namn" : "S101",
+				"X" : "6175531.733",
+				"Y" : "130666.242",
+				"Z" : "38.543",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 11,
+				"Punkttyp" : "Sättningsfix",
+				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
+				"Tillbehör" : null,
+				"Underlag" : null,
+				"Material" : null,
+				"Markeringstyp" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 13.192466824568623, 55.70330768756692, 39.424499999993714 ]
+			},
+			"properties" : {
+				"Namn" : "S100",
+				"X" : "6175572.416",
+				"Y" : "130665.451",
+				"Z" : "39.424",
+				"Medelfel höjd (m)" : "0.025",
+				"Medelfel plan (m)" : "0.05",
+				"Kod" : 11,
+				"Punkttyp" : "Sättningsfix",
 				"fme_feature_type" : "GNG.MAPVERTICALPOINT",
 				"Tillbehör" : null,
 				"Underlag" : null,
